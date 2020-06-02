@@ -43,7 +43,7 @@ public class Client {
 					
 			// 서버로부터 메시지 받기
 			String reMsg = br.readLine();
-			System.out.println("Server : [ " + reMsg + " ]");
+			System.out.println("황민영 : [ " + reMsg + " ]");
 		}
 		
 		sc.close();
